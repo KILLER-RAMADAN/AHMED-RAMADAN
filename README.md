@@ -12,11 +12,19 @@
   
 - 💬 ASK ME
 
-- 👨‍💻 All of my projects are available at [https://github.com/KILLER-RAMADAN/SECRET_X](https://github.com/KILLER-RAMADAN/SECRET_X)
-
-- 📫 HOW TO CONTACT WITH ME **ahmedramadan5452332@gmail.com**
+- 👨‍💻 All of my projects are available here
 
 - ⚡ Fun Fact **IM_ALONE 🙈**
+
+- 📫 HOW TO CONTACT WITH ME 
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>GMAIL</h2>
+<a href="http://mail.google.com/mail/u/0/#inbox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://mail.google.com/mail/u/0/#inbox" height="30" width="40" /></a>
+</body>
+</html>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,5 +39,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=killer-ramadan&show_icons=true&locale=en&layout=compact" alt="killer-ramadan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=killer-ramadan&" alt="killer-ramadan" /></p>
-
-
