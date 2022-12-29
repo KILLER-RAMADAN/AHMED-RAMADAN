@@ -6,16 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👯 CALLED ME **RAMADAN**
-
-- 🤝 if you looking for help **LOOK DOWN**
-  
-- 💬 ASK ME
-
-- 👨‍💻 All of my projects are available here
-
-- ⚡ Fun Fact **IM_ALONE 🙈**
-
 - 📫 HOW TO CONTACT WITH ME 
 <!DOCTYPE html>
 <html>
